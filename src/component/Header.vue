@@ -18,7 +18,7 @@
       </div>
     </div>
     <div class="pt-2">
-      <i class="icon ion-md-contact text-5xl text-gray-300"></i>
+      <i class="icon ion-md-contact text-5xl text-gray-200"></i>
     </div>
   </div>
   <div class="px-6 py-5 flex">
